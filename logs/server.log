@@ -1,0 +1,52 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:34280 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47834 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47836 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47834 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47844 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47856 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47836 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47834 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47844 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47834 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47844 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47836 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47856 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47864 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47878 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47834 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47844 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38516 - "OPTIONS /search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38516 - "POST /search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44414 - "POST /search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47168 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47174 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47188 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47190 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47168 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47174 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47188 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47190 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47202 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47202 - "POST /auth/login HTTP/1.1" 422 Unprocessable Content
+INFO:     172.20.0.1:47208 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47208 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40080 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47208 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40084 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40088 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40080 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40084 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36586 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36582 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36584 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36610 - "GET /demo/profiles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36586 - "GET /demo/achievements HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36584 - "GET /demo/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36582 - "GET /demo/wallet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36610 - "GET /demo/profiles HTTP/1.1" 200 OK
